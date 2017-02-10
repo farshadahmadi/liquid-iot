@@ -1,3 +1,6 @@
 [submodule "liquid-iot-runtime-environment"]
 	path = liquid-iot-runtime-environment
 	url = https://github.com/farshadahmadi/liquid-iot-runtime-environment
+[submodule "liquid-iot-resource-registry"]
+	path = liquid-iot-resource-registry
+	url = https://github.com/farshadahmadi/liquid-iot-resource-registry
